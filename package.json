@@ -1,7 +1,6 @@
 {
   "name": "smart-brain-api",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "scripts": {
     "start": "nodemon server.js"
@@ -20,5 +19,14 @@
   },
   "devDependencies": {
     "nodemon": "^1.14.12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorhmsxd/smart-brain-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vitorhmsxd/smart-brain-api/issues"
+  },
+  "homepage": "https://github.com/vitorhmsxd/smart-brain-api#readme",
+  "description": ""
 }
